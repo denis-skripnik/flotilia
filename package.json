@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cron": "^1.7.1",
+    "express": "^4.16.4",
+    "golos-js": "latest",
+    "nedb": "^1.8.0"
+  }
+}

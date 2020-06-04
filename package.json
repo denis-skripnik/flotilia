@@ -2,7 +2,7 @@
   "dependencies": {
     "cron": "^1.7.1",
     "express": "^4.16.4",
-    "golos-js": "latest",
+    "golos-classic-js": "latest",
     "nedb": "^1.8.0"
   }
 }
